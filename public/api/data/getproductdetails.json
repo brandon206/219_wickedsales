@@ -1,0 +1,16 @@
+{
+	"success": true,
+	"productInfo": {
+		"name": "Wicked Thing",
+		"price": 2000,
+		"images": ["images/wickedpic.jpg"],
+		"id": 1,
+		"description": "This product will solve all of your ills, cure famine, and make you look more like bradd pitt, regardless if you are male or female",
+		"miscDetails": {
+			"height": "20cm",
+			"width": "15cm",
+			"weight": 4.2,
+			"manufacturer": "Therbal"
+		}
+	}
+}

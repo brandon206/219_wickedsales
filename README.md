@@ -1,16 +1,16 @@
 <img align="right" width="150" src="https://github.com/Learning-Fuze/react-with-server/blob/master/public/dist/php-react.png">
 
-# PHP React Starter
+# Wicked Sales
 
-> This repo contains boilerplate code to aid in the creation of a new React app with Redux and PHP back end. Follow the below setup instructions to get started.
+> E-commerce site built with ReactJS, PHP, and MySQL
 
 ### Setup Instructions
 
 > 1. Fork this repo
 > 1. Clone your forked copy of this repo
->    - `git clone https://github.com/[Your Username]/lampr-demo.git`
+>    - `git clone https://github.com/[Your Username]/219_wickedsales.git`
 > 1. Change directory into the newly cloned repo
->    - `cd lampr-demo`
+>    - `cd 219_wickedsales`
 > 1. Install dependencies 
 >    - `npm install`
 > 1. Use MAMP or similar program to start Apache and MySQL servers
@@ -19,7 +19,7 @@
 >    - Use phpMyAdmin (or similar) to create a database
 > 1. Start dev server
 >    - `npm start`
-> 1. Open a browser and navigate to `localhost:3000` You should see "Welcome to React".
+> 1. Open a browser and navigate to `localhost:3000`
 
 ### Bundle For Deployment
 

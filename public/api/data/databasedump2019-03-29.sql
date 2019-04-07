@@ -12,6 +12,7 @@ SET time_zone = "+00:00";
 
 --
 -- Database: `wickedsales`
+
 --
 
 -- --------------------------------------------------------
@@ -50,6 +51,7 @@ CREATE TABLE `products` (
   `name` varchar(30) COLLATE utf8_unicode_ci NOT NULL,
   `price` bigint(20) UNSIGNED NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
 
 --
 -- Dumping data for table `products`
@@ -91,3 +93,4 @@ ALTER TABLE `images`
 --
 ALTER TABLE `products`
   MODIFY `id` mediumint(8) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+
